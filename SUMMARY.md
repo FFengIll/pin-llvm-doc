@@ -1,6 +1,6 @@
 # Summary
 
-* Design
+* [Design](design.md)
    * Pin
    * LLVM
 
