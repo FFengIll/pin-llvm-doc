@@ -7,7 +7,7 @@ We use Intel Pin and LLVM as the core frames.
 The whole system includes 3 parts:
 
 
-1. Pin
+* Pin
 * LLVM
 * Convert
 * Symbolic
