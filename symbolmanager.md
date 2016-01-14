@@ -1,5 +1,7 @@
 # SymbolManager
 
+## Defination
+
 用于存储IR中间变量的相关信息，包括：  
 *   type
     *   addr: for address
