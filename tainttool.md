@@ -13,3 +13,6 @@ cast
 
 ## IR instrument entry 
 
+check type  
+get operands  
+do IR insert call  
