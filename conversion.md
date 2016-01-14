@@ -11,7 +11,11 @@
 
 转换功能由单一的函数接口提供，包含全局初始化、指令转换。
 
+***
 
+指令转换完全依照asm语义完成，因此，同asm一致，具有明确的入口与出口，  
+1.  entry: memory, registers
+*.  exit
 
 
 Support 8bit, 16bit, 32bit registers, like al, ah, ax and eax.  
