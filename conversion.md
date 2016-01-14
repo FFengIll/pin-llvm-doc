@@ -14,8 +14,15 @@
 ***
 
 指令转换完全依照asm语义完成，因此，同asm一致，具有明确的入口与出口，  
-1.  entry: memory, registers
-*.  exit
+*  entry: 
+    *  memory
+    *  register
+*  exit: 
+    *  memory
+    *  register  
+
+即，所有的中间指令的数据操作，均会有入口到出口，形成封闭的中间指令块。  
+
 
 
 Support 8bit, 16bit, 32bit registers, like al, ah, ax and eax.  
