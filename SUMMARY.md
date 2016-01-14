@@ -6,4 +6,5 @@
    * [LLVM](llvm.md)
    * [Conversion](conversion.md)
    * [Instrument](instrument.md)
+   * SymbolManager
 
