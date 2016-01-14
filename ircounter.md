@@ -12,9 +12,7 @@ each type of IR
 
 ## IR instrument entry 
 
-check type  
-get operands  
-do IR insert call  
+for each IR, update counter
 
 
 ## Taint
