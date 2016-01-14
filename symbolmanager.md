@@ -8,7 +8,7 @@
     *   tmp: for IR tmp
     *   reg: for register
 *   value
-    *   store the value of the variable which are get from the entry
+    *   store the value of the var which are get from the entry
     *   only load from entry, and no other calculation
 2.  symbol
     *   addr, reg, tmp can be marked as a symbol
