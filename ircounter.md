@@ -7,13 +7,7 @@
 
 ## IR focus
 
-load
-
-store
-
-binop
-
-cast
+each type of IR
 
 
 ## IR instrument entry 
