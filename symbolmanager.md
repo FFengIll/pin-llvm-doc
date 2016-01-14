@@ -15,5 +15,5 @@
     *   specially, tmp has its unique id only in current IR block
 4.  extend
     *   a special pointer to extend the types
-    *   directly source code editing is also available
+    *   directly source code editing is also available if it is necessary
 
