@@ -8,4 +8,5 @@
    * [Instrument](instrument.md)
    * [SymbolManager](symbolmanager.md)
 * Tool
+   * TaintTool
 
