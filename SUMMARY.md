@@ -9,4 +9,5 @@
    * [SymbolManager](symbolmanager.md)
 * [Tool](tool.md)
    * [TaintTool](tainttool.md)
+   * IRCounter
 
