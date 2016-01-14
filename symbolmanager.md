@@ -20,4 +20,6 @@
     *   directly source code editing is also available if it is neccessary
 *   width
     *   of course the width corresponding to the var
+    *   Addr is managed by 8 bit width only
+    *   Reg is managed by 32 bit, but a extra process can support other width within 32 bit
 
