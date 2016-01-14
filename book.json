@@ -4,7 +4,7 @@
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
-          "copyright":"&copy XX",
+          "copyright":"&copy NSTL",
           "modify_label": "该文件修订时间：",
           "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
