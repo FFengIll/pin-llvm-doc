@@ -1,6 +1,8 @@
 # Conversion
 
-指令转换，通过ASM到LLVM IR完成。
+指令转换，完成ASM到LLVM IR的语义对应转换。
+
+## Workflow
 
 系统采用逐条asm转换的方式：
 1. 读取将要执行的asm，由Pin在执行指令读取、插桩时完成
