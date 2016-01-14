@@ -1,6 +1,7 @@
 # Conversion
 
-指令转换，完成ASM到LLVM IR的语义对应转换。
+指令转换，完成ASM到LLVM IR的语义对应转换。  
+Now support X86 32bit architecture only.
 
 ## Workflow
 
