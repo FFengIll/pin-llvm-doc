@@ -16,3 +16,14 @@ cast
 check type  
 get operands  
 do IR insert call  
+
+
+## Taint
+
+### load
+
+### store
+
+### binop
+
+### cast
