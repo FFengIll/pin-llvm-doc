@@ -18,4 +18,6 @@
 4.  extend
     *   a special pointer to extend the types
     *   directly source code editing is also available if it is neccessary
+*   width
+    *   of course the width corresponding to the var
 
