@@ -45,6 +45,6 @@ Supported flags includes,
 2.  sf
 3.  of
 4.  cf/bf 
-5.  
 
+In many situations, nothing will be done with flags, so flag relevant convert can be controled with a switch argument.
 
