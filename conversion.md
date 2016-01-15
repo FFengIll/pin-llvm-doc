@@ -76,4 +76,10 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
     *   flag change
     *   store
 *   mul
+    *   load
+    *   mul
+    *   store
 *   div
+    *   load
+    *   div
+    *   store
