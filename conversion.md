@@ -48,3 +48,13 @@ Supported flags includes,
 
 In many situations, nothing will go with flags, so flag relevant convert can be controled with a switch argument.
 
+## Instruction to IR
+*   jmp
+*   ret
+*   call
+*   mov
+*   jcc
+*   add
+*   sub
+*   mul
+*   div
