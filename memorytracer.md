@@ -2,4 +2,4 @@
 
 ## Introduction
 
-##
+## IR focus
