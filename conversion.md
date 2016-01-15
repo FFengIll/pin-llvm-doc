@@ -50,11 +50,25 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 
 ## Instruction to IR
 *   jmp
+    *   load
+    *   call
 *   ret
+    *   esp
+    *   eip
 *   call
 *   mov
+    *   load
+    *   store
 *   jcc
 *   add
+    *   load
+    *   add
+    *   flag change
+    *   store
 *   sub
+    *   load
+    *   sub
+    *   flag change
+    *   store
 *   mul
 *   div
