@@ -10,4 +10,5 @@
 * [Tool](tool.md)
    * [TaintTool](tainttool.md)
    * [IRCounter](ircounter.md)
+   * MemoryTracer
 
