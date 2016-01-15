@@ -13,4 +13,4 @@ Using the project "**MCSema**", we can complete the conversion between ASM and L
 
 ## Unsupported
 Now some APIs of Pin are not supported!  
-Pin defined many APIs but has not complete all of them now!
+Pin defined many APIs but has not complete all of them now!  
