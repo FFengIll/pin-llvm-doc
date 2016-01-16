@@ -63,7 +63,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
     *   load
     *   store
 *   jcc
-    *   flag judge
+    *   flag: judge
     *   load
     *   jmp
 *   add
