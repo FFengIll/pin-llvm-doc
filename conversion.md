@@ -100,6 +100,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
     *   read value from addr (use tmp for addr): **tmp_dest = load tmp_src**
 *   binary op - arithmetic operator: add, sub, mul, div and etc
 *   binary op - logical operator: and, or, nor and etc
+*   cast
 *   br
 *   call
 *   cmp
