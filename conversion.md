@@ -65,7 +65,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   jcc
     *   load: load the flags that need to judge the cc
     *   cmp
-    *   br
+    *   br: in llvm user br while branch happens
 *   add
     *   load
     *   add
