@@ -33,5 +33,6 @@ Each system call can be support if obey the handler rules.
 
 ### Replace Syscall handler
 
-## Ins instrument
 
+## Ins instrument
+Ins, Routine, Image instrument are still support.  
