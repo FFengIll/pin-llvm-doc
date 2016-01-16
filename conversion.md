@@ -81,10 +81,14 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   mul
     *   load
     *   mul
+    *   load: load flag that will change
+    *   store: store new flags value into flags
     *   store
 *   div
     *   load
     *   div
+    *   load: load flag that will change
+    *   store: store new flags value into flags
     *   store
 
 ## IR
