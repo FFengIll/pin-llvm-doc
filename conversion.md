@@ -75,7 +75,8 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   sub
     *   load
     *   sub
-    *   flag change
+    *   load: load flag that will change
+    *   store: store new flags value into flags
     *   store
 *   mul
     *   load
