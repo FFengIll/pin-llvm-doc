@@ -97,5 +97,5 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
     *   write value to addr: **store tmp_src, tmp_dest**
 *   load
     *   read value from reg: **tmp_dest = load reg**
-    *   read value from addr: **tmp_dest = load tmp_src**
+    *   read value from addr (use tmp for addr): **tmp_dest = load tmp_src**
     
