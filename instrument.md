@@ -28,6 +28,8 @@ Including syscall bellow:
 *   close
    
 ### Register Syscall handler
+Userdefine syscall handler can be register by a register method.  
+Each system call can be support if obey the handler rules.  
 
 ### Replace Syscall handler
 
