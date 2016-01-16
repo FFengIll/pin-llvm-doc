@@ -101,6 +101,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   binary op - arithmetic operator: add, sub, mul, div and etc
 *   binary op - logical operator: and, or, nor and etc
 *   cast
+*   shift
 *   br
 *   call
 *   cmp
