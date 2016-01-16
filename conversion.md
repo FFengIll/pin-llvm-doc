@@ -57,6 +57,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
     *   eip
 *   call
     *   load
+    *   store: return addr, aka eip
     *   call
 *   mov
     *   load
