@@ -51,7 +51,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 ## Instruction to IR
 *   jmp
     *   load
-    *   call
+    *   call: directly jmp will be treated as call, aka 1-path branch without cc
 *   ret
     *   esp
     *   eip
@@ -65,7 +65,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   jcc
     *   load: load the flags that need to judge the cc
     *   cmp
-    *   br: in llvm user br while meet a 2-path branch
+    *   br: in llvm user br while meet a 2-path branch with cc
 *   add
     *   load
     *   add
