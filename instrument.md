@@ -15,7 +15,13 @@ While the asm convert into llvm ir, we can call the methods of each ir instructi
 ### System call Exit
 
 ### Use default Syscall handler
-Some simple default handlers are supported.  
+Some simple default handlers (exit and entry) are supported.  
+Including syscall bellow:  
+*   read
+*   write
+*   open
+*   close
+   
 ### Register Syscall handler
 
 ### Replace Syscall handler
