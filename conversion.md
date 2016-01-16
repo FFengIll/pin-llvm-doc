@@ -101,4 +101,5 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   add, sub, mul, div
 *   br
 *   call
+*   cmp
     
