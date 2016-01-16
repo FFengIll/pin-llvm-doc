@@ -11,8 +11,13 @@ While the asm convert into llvm ir, we can call the methods of each ir instructi
 ## System call
 
 ### System call Entry    
+Will enter into a system call, aka syscall entry.  
+Entry will have all arguments given to the syscall.  
 
 ### System call Exit
+Will normally return from a system call, aka syscall exit.  
+Exit will have all arguments and the return value of the syscall.  
+
 
 ### Use default Syscall handler
 Some simple default handlers (exit and entry) are supported.  
