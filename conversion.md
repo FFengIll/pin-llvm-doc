@@ -98,4 +98,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   load
     *   read value from reg: **tmp_dest = load reg**
     *   read value from addr (use tmp for addr): **tmp_dest = load tmp_src**
+*   add, sub, mul, div
+*   br
+*   call
     
