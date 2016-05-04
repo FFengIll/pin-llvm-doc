@@ -7,7 +7,7 @@ Pin can get the instructions of testing programs, but it can only work on assemb
 
 If we want to process all of the assemble instructions, we have to work too much, so we want to convert the assemble to an IR instruction which we call Intermedia Representation. And we choosed LLVM IR.
 
-Using the project "**MC-Sema**", we can complete the conversion between ASM and LLVM-IR. The conversion can contain the instruction functions and semantics.
+Using the project "**MC-Sematics**", we can complete the conversion between ASM and LLVM-IR. The conversion can contain the instruction functions and semantics.
 
 ***
 
