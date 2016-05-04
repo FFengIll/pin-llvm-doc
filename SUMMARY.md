@@ -8,8 +8,8 @@
    * [Instrument](instrument.md)
    * [SymbolManager](symbolmanager.md)
 * [Tool](tool.md)
-   * [TaintTool](tainttool.md)
-   * [IRCounter](ircounter.md)
-   * [MemoryTracer](memorytracer.md)
-   * [SymbolicExecution](symbolicexecution.md)
+   * [TaintTool](Tool/tainttool.md)
+   * [IRCounter](Tool/ircounter.md)
+   * [MemoryTracer](Tool/memorytracer.md)
+   * [SymbolicExecution](Tool/symbolicexecution.md)
 
