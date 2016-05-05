@@ -1,6 +1,6 @@
-# SymbolManager
+# Symbol Manager
 
-## Defination
+## Definition
 
 用于存储IR中间变量的相关信息，包括：  
 *   type
