@@ -17,9 +17,9 @@
     *   specially, tmp has its unique id only in current IR block
 4.  extend
     *   a special pointer to extend the types
-    *   directly source code editing is also available if it is neccessary
+    *   directly source code editing is also available if it is necessary
 *   width
     *   of course the width corresponding to the var
-    *   Addr is managed by 8 bit width only
-    *   Reg is managed by 32 bit, but a extra process can support other width within 32 bit
+    *   Address (aka. Addr) is managed by 8 bit width only
+    *   Register (aka. Reg) is managed by 32 bit, but a extra process can support other width within 32 bit
 
