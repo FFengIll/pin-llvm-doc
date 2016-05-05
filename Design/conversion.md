@@ -14,6 +14,11 @@ Now support X86 32bit architecture only.
 
 转换功能由单一的函数接口提供，包含全局初始化、指令转换。
 
+
+## Instruction ID
+
+All instruction will come with its id which bind with its address. Id goes from 1 to max as need and will be refreshed for another instruction.
+
 ## Entry and Exit
 
 指令转换完全依照asm语义完成，因此，同asm一致，具有明确的入口与出口，  
@@ -102,7 +107,7 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   binary op - logical operator: and, or, nor and etc
 *   cast
 *   shift
-*   br
-*   call
-*   cmp
+*   br - like jmp in x86 asm
+*   call - like call in x86 asm but no balance of stack
+*   cmp - an advance operator like cmp in x86 asm
     
