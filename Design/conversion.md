@@ -103,11 +103,12 @@ In many situations, nothing will go with flags, so flag relevant convert can be 
 *   load
     *   read value from reg: **tmp_dest = load reg**
     *   read value from addr (use tmp for addr): **tmp_dest = load tmp_src**
-*   binary op - arithmetic operator: add, sub, mul, div and etc
-*   binary op - logical operator: and, or, nor and etc
+*   binary op
+  *   arithmetic operator: add, sub, mul, div and etc
+  *   logical operator: and, or, nor and etc
 *   cast
 *   shift
-*   br - like jmp in x86 asm
-*   call - like call in x86 asm but no balance of stack
-*   cmp - an advance operator like cmp in x86 asm
+*   br - like **jmp in x86 asm**
+*   call - like **call in x86 asm** but no balance of stack
+*   cmp - an advance operator like **cmp in x86 asm**
     
